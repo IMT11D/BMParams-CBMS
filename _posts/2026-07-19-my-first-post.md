@@ -2,7 +2,6 @@
 layout: post
 title: "我的第一篇博客文章"
 date: 2026-07-19
-categories: 学习笔记
 ---
 
 ## 关于本次作业
